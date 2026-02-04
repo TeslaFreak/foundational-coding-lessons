@@ -28,6 +28,16 @@ Apply your TypeScript skills to build interactive web applications:
 
 [Go to Lesson 2 →](./lesson-2/)
 
+### Lesson 3: Understanding Types
+Learn why types are important and how to use them effectively:
+- What types are and why programs need them
+- Understanding the difference between JavaScript and TypeScript
+- Type annotations (explicitly declaring types)
+- Type inference (how TypeScript figures out types automatically)
+- Working with types in practical scenarios
+
+[Go to Lesson 3 →](./lesson-3/)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
