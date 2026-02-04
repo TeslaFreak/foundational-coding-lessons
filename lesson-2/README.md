@@ -41,9 +41,9 @@ Vite is a modern build tool that makes it easy to start a React project. Follow 
 npm create vite@latest my-react-app -- --template react-ts
 ```
 
-4. When prompted, follow these steps:
-   - Select `React` as the framework
-   - Select `TypeScript` as the variant
+4. When prompted:
+   - For "Use rolldown-vite (Experimental)?": Select `No` (press Enter)
+   - For "Install with npm and start now?": Select `No` (press N, then Enter)
 
 5. Navigate into your new project:
 
