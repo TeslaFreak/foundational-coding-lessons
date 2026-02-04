@@ -18,6 +18,16 @@ Learn the fundamental building blocks of programming:
 
 [Go to Lesson 1 →](./lesson-1/)
 
+### Lesson 2: Introduction to React
+Apply your TypeScript skills to build interactive web applications:
+- Setting up a React project with Vite
+- Using variables in React components
+- Conditional rendering (if statements in React)
+- Rendering lists (loops in React)
+- Building your first web components
+
+[Go to Lesson 2 →](./lesson-2/)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
