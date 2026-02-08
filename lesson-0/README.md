@@ -169,7 +169,7 @@ Extensions add functionality to VS Code and make coding much easier. Let's insta
 2. **Or Install Extensions from VS Code**:
    - Click the Extensions icon in the left sidebar (it looks like four squares)
    - Search for and install these extensions:
-     - **ESLint** (by Microsoft) - Helps catch errors and enforce code quality
+     - **ESLint** (by Dirk Baeumer) - Helps catch errors and enforce code quality
      - **Prettier - Code formatter** (by Prettier) - Automatically formats your code
      - **JavaScript and TypeScript Nightly** (by Microsoft) - Latest TypeScript features
      - **ES7+ React/Redux/React-Native snippets** (by dsznajder) - Code snippets for React
