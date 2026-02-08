@@ -8,6 +8,19 @@ This repository is organized into lessons, with each lesson covering specific pr
 
 ## 📚 Lessons
 
+### Lesson 0: Environment Setup
+Get your MacBook ready for coding! This lesson walks you through installing everything you need:
+- Homebrew (macOS package manager)
+- Git (version control)
+- Node.js and npm (JavaScript runtime and package manager)
+- Visual Studio Code (code editor)
+- VS Code extensions for TypeScript and React
+- How to clone this repository and install dependencies
+
+**Start here if you're setting up your computer for the first time!**
+
+[Go to Lesson 0 →](./lesson-0/)
+
 ### Lesson 1: TypeScript Basics
 Learn the fundamental building blocks of programming:
 - Print statements (console.log)
@@ -41,9 +54,14 @@ Learn why types are important and how to use them effectively:
 ## 🚀 Getting Started
 
 ### Prerequisites
+
+**New to coding?** Start with [Lesson 0: Environment Setup](./lesson-0/) for complete instructions on setting up your MacBook from scratch!
+
+**Already set up?** Make sure you have:
 - Node.js installed on your computer
 - A text editor (VS Code recommended)
 - A terminal/command prompt
+- Git installed
 
 ### Installation
 
